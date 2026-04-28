@@ -1,4 +1,4 @@
-Here’s your content rewritten cleanly as a **professional GitHub README.md** (structured, readable, and polished):
+
 
 ---
 
