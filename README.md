@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>A full-scale adversary simulation and corporate attack chain engagement conducted in an isolated lab environment</strong><br/>
-  <em>DEPI Cybersecurity Track — Graduation Project · 2026</em>
+  <em>DEPI — Vulnerability Analyst and Penetration Tester · Graduation Project 2026</em>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## 📋 Project Overview
 
-This project delivers a **complete end-to-end Red Team engagement** simulating a real-world corporate cyberattack against a fully isolated lab environment. Developed as the **graduation project for the DEPI (Digital Egypt Pioneers Initiative) Cybersecurity Track**, it demonstrates advanced offensive security skills and professional adversary simulation methodology.
+This project delivers a **complete end-to-end Red Team engagement** simulating a real-world corporate cyberattack against a fully isolated lab environment. Developed as the **graduation project for the DEPI (Digital Egypt Pioneers Initiative) — Vulnerability Analyst and Penetration Tester track**, it demonstrates advanced offensive security skills and professional adversary simulation methodology.
 
 The engagement replicates the behavior of a **modern Advanced Persistent Threat (APT)** actor, following a structured kill chain from initial reconnaissance through full domain compromise — all mapped to the **MITRE ATT&CK** framework.
 
@@ -322,7 +322,7 @@ The engagement followed a structured **4-phase Red Team lifecycle** model aligne
 
 ## 🧑‍💻 Team
 
-This project was developed as a **collaborative team effort** for the DEPI Cybersecurity Track graduation:
+This project was developed as a **collaborative team effort** for the DEPI Vulnerability Analyst and Penetration Tester track graduation:
 
 | Member | Role | GitHub |
 |--------|------|--------|
@@ -379,5 +379,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <p align="center">
   <strong>Developed with 🔴 by the DEPI Red Team · 2026</strong><br/>
-  <em>Digital Egypt Pioneers Initiative — Cybersecurity Track</em>
+  <em>Digital Egypt Pioneers Initiative — Vulnerability Analyst and Penetration Tester</em>
 </p>
