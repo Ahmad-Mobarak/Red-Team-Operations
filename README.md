@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Aligned-ff6600?style=for-the-badge&logo=shield&logoColor=white" alt="MITRE ATT&CK"/>
   <img src="https://img.shields.io/badge/DEPI-Graduation%20Project-0d6efd?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="DEPI Project"/>
   <img src="https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/github/license/Ahmad-Mobarak/Red-Team-Operations?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License"/>
 </p>
 
 <h1 align="center">🔴 Red Team Operations & Simulated Corporate Attack</h1>
