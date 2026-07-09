@@ -326,7 +326,7 @@ This project was developed as a **collaborative team effort** for the DEPI Cyber
 
 | Member | Role | GitHub |
 |--------|------|--------|
-| **Ahmed Mobarak** | Red Team Lead | [@Ahmad-Mobarak](https://github.com/Ahmad-Mobarak) |
+| **Ahmed Mobarak** | Red Team Operator | [@Ahmad-Mobarak](https://github.com/Ahmad-Mobarak) |
 | **Nour** | Red Team Operator | [@nourzein006](https://github.com/nourzein006) |
 | **Ahmed M. Kamal** | Red Team Operator | [@Ahmed268453](https://github.com/Ahmed268453) |
 | **Abdo** | Red Team Operator | — |
